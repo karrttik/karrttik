@@ -11,8 +11,6 @@ I'm a passionate Frontend React Developer with a foundation in backend developme
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)](#)
 [![Next JS](https://img.shields.io/badge/-Next.js-E34F26?style=flat&logo=next.js&logoColor=white)](#)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](#) 
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](#)
-
 <!--[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](#) [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white)](#) -->
 
 
