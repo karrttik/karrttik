@@ -3,7 +3,7 @@
 
 I'm a passionate Frontend React Developer with a foundation in backend development. I enjoy creating intuitive and visually appealing user interfaces. I'm constantly learning and exploring new technologies to improve my skills.
 
-## Skills 💻⚙️
+## <!-- Skills  💻--> ⚙️
 <!--
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
   <rect x="4" y="4" width="120" height="120" rx="10" ry="10" fill="#E44D26"/>
