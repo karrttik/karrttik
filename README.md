@@ -18,7 +18,9 @@ I'm a passionate Frontend React Developer with a foundation in backend developme
   <path fill="#fff" d="M64 51.9h18.4l1.3-14.4H64V23.1c0-4 1.1-6.7 6.8-6.7H78V2.5C76.4 2.3 73.8 2 70.2 2 61.1 2 54 8.5 54 17.3v9.6H40.4L39.1 51.9h14.9v14.6H36c-8.3 0-13.6 4.9-13.6 13.7v16.3h25.7l1.9 21.3H11.3V118c0 8.8 5.3 13.7 13.6 13.7h1.6c9.8 0 15.9-5.6 18.5-11.1 1.1-2.6 1.9-5.9 2.4-9.1l2.4-10.9 23.9-6.4 3.8 13.5c.9 3.3 2.5 8.2 5.4 10.6 3.3 2.8 7.5 4.2 13.6 4.2h1.6c8.3 0 13.6-4.9 13.6-13.7V63.5H76.2l-1.9-21.6H98v-16C98 11.1 92.7 6 84.5 6h-1.6c-9.8 0-15.9 5.6-18.5 11.1-1.1 2.6-1.9 5.9-2.4 9.1l-2.4 11.1L33.5 45l-3.8-13.6c-.9-3.2-2.5-8.2-5.4-10.6C21.1 17.6 17 16 11.3 16h-1.6C1.1 16 0 20.9 0 29.7v14.6h25.7L27.6 81.7z"/>
 </svg>/-->
 
-<!-- woooooooooooo -->
+<!-- wooooooooooooooooooooo
+ooooooooooooooo
+ -->
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](#) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](#) 
