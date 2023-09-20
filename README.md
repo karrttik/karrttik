@@ -14,3 +14,6 @@ I'm a passionate Frontend React Developer with a foundation in backend developme
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](#) 
 
 I'm open to collaborations, job opportunities, and interesting projects. Let's connect!
+<!--
+Hey this is kartik 
+-->
