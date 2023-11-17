@@ -1,7 +1,7 @@
 
 ##  Hi, I'm Kartik!👋
 
-I'm a passionate Frontend React Developer with a foundation in backend development. I enjoy creating intuitive and visually appealing user interfaces. I'm constantly learning and exploring new technologies to improve my skills.
+I'm a frontend React Developer with backend experience. I create intuitive and visually appealing user interfaces and constantly learn new technologies to improve my skills.
 
 ## <!-- Skills  💻--> ⚙️
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)](#)
